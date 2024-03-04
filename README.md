@@ -18,3 +18,11 @@ The goal is to implement the largest and most advanced implementation of the abo
    1. Complete the Classiq workshop notebooks
 4.   Iteratively start implementing the smallest viable example of the algorithm while understanding the paper in-depth and mastering the Classiq algorithm
 5.   Increase the complexity of the example and find the most advanced instance of the algorithm you can simulate.
+
+## Submission
+1. Final presentation that explains your solution and implementation
+2. Jupyter notebook(s) with your code
+3. The `.qmod` files that capture your models (a detailed explanation of how to do this can be found in [this](https://github.com/iQuHACK/2024_Classiq/blob/main/classiq_challenge.ipynb) notebook)
+4. The `.qprog` files that capture your quantum programs (an explanation of this can be found in [this](https://github.com/iQuHACK/2024_Classiq/blob/main/classiq_challenge.ipynb) notebook)
+
+Good luck!
