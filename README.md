@@ -1,5 +1,5 @@
 # Classiq QRISE 2024 Challenge
-Simulating Coupled Classical Oscillators in Practice
+Compiling a Simulation of Classical Coupled Oscillators
 
 ## Background
 The progress of quantum computers in the last few years has been immense, with better and better quantum computers being developed each year. Nowadays there are quantum computers with hundreds of qubits that can compute quantum algorithms with circuit depth of up to a few thousand and still receive a significant signal. One of the key challenges is the development of efficient and novel quantum algorithms that are useful and offer exponential advantage over classical methods. One of the very few algorithms we know of under this definition is the [Exponential Quantum Speedup in Simulating Coupled Classical Oscillators](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.13.041041) work, presented in 2023 by Ryan Babbush et al.
